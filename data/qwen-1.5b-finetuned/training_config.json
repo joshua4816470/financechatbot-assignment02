@@ -1,0 +1,12 @@
+{
+  "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "max_length": 512,
+  "epochs": 3,
+  "lr": 0.0002,
+  "train_samples": 97,
+  "val_samples": 11,
+  "final_loss": 1.6874,
+  "saved_at": "2026-04-18T02:32:32.611232"
+}
